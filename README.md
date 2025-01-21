@@ -10,4 +10,5 @@ The codes are organized based on their functions, including model simulations an
 # Code Description:
 
 The folder "Creek Simulation" contains numerical simulations based on Eqs. (1–11).
+
 The folder "Fig5C_Model_Sin_Reduce" includes implementations for scenarios with reduced sediment input in tidal waters.
